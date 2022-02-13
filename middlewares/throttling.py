@@ -1,4 +1,4 @@
-import asyncio
+
 
 from aiogram import types, Dispatcher
 from aiogram.dispatcher import DEFAULT_RATE_LIMIT
